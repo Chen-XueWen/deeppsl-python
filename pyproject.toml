@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deeppsl"
+version = "0.1.0"
+description = "A neuro-symbolic AI framework combining deep learning perception with PSL reasoning"
+dependencies = [
+    "torch",
+    "numpy",
+    "cvxpy",
+    "cvxpylayers"
+]
