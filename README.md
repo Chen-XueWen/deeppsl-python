@@ -2,7 +2,7 @@
 
 DeepPSL is a neuro-symbolic AI framework that integrates deep learning perception with Probabilistic Soft Logic (PSL) reasoning. It treats PSL inference as a convex optimization problem (HL-MRF) and makes it differentiable using `cvxpylayers`.
 
-Demo Page: https://deeppsl-demo.vercel.app/
+Demo Page: https://deeppsl-demo.vercel.app/, Original Paper: https://arxiv.org/abs/2109.13662
 
 ## Architecture
 
